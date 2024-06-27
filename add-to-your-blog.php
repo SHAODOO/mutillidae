@@ -95,7 +95,7 @@
 			$lEnableJavaScriptValidation = TRUE;
 			$lEnableHTMLControls = TRUE;
 			$lProtectAgainstMethodTampering = TRUE;
-			$apiToken = "eySHb&#hfbkbsdvlkjwnvjkarv"; 
+			$apiToken = "eySHb&#MIIEvgIBADANBgkqhkiG9ws"; 
    		break;
    	}// end switch
 
