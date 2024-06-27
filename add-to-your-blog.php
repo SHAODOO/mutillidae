@@ -95,6 +95,7 @@
 			$lEnableJavaScriptValidation = TRUE;
 			$lEnableHTMLControls = TRUE;
 			$lProtectAgainstMethodTampering = TRUE;
+			$secret = "This is a secret"; 
    		break;
    	}// end switch
 
