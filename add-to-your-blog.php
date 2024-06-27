@@ -95,7 +95,7 @@
 			$lEnableJavaScriptValidation = TRUE;
 			$lEnableHTMLControls = TRUE;
 			$lProtectAgainstMethodTampering = TRUE;
-			$secret = "This is a secret"; 
+			$apiToken = "eySHb&#hfbkbsdvlkjwnvjkarv"; 
    		break;
    	}// end switch
 
